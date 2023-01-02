@@ -5,6 +5,7 @@ It's both visual and code based, so it's the perfect balance to write complex au
 
 # Controllers
 - [reactor-opensprinkler](https://github.com/dbochicchio/reactor-opensprinkler): MSR controller for OpenSprinkler
+- [reactor-espresense](https://github.com/dbochicchio/reactor-espresense): MSR controller for ESPresense
 - [reactor-lgtv](https://github.com/dbochicchio/reactor-lgtv): MSR controller for LG TVs
 
 # Other contributions:
